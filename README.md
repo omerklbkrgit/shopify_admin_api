@@ -7,7 +7,7 @@ https://shopify.dev/api/admin-rest/2022-07/resources/product#get-products
 https://documenter.getpostman.com/view/3800273/SWLk55pF#29673fcd-0570-47f1-9041-0b9c62c26279
 
 ## ayndesk tunel
-C:\GELEN\2022-08-22 01_41_12-modal-dialog-bg.png
+![image](https://user-images.githubusercontent.com/5873252/185813888-5915c9bb-cf3b-4f86-8a92-859228ca34f1.png)
 
 ## netsh
 netsh interface portproxy add v4tov4 listenport=9090 listenaddress=localhost connectport=9090 connectaddress=95.6.45.126
